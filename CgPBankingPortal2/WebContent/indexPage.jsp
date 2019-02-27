@@ -13,10 +13,10 @@
 					<td><a href="associateDetails.jsp">Get AssociateDetails</a></td>		
 			<tr>
 							<td>Click here to</td>
-					<td><a href="calculatenetsalary.jsp">Calculate Net Salary</a></td>	
+					<td><a href="associateCalculateNetSalary.jsp">Calculate Net Salary</a></td>	
 			<tr>
 							<td>Click here to</td>
-					<td><a href="allassociateDetails.jsp">Get All AssociateDetails</a></td>	
+					<td><a href="allAssociateDetails.jsp">Get All AssociateDetails</a></td>	
 		</table>
 	</div>
 </body>

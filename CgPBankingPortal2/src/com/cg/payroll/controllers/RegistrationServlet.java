@@ -48,8 +48,7 @@ public class RegistrationServlet extends HttpServlet {
 		
 		//Associate associate=services.getAssociateDetails(associateId);
 		request.setAttribute("associateId", associateId);
-		request.getRequestDispatcher("registrationsuccess.jsp").forward(request, response);
-		
+		request.getRequestDispatcher("associateRegistrationsuccess.jsp").forward(request, response);	
 	}
 	@Override
 	public void destroy() 
